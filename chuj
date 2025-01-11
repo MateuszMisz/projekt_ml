@@ -1,0 +1,5 @@
+import chardet
+
+with open('./res/cleaned_labels.csv', 'rb') as f:
+    result = chardet.detect(f.read())
+    print(result)
