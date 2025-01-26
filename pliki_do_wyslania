@@ -1,0 +1,19 @@
+bayes.ipynbn
+choosing_attributes_decision_tree.ipynb
+choosing_attributes_lasso.ipynb
+converting_to_others.ipynb
+corelation.ipynb
+Decision_tree.ipynb
+logical_encoding.ipynb
+metrics.ipynb
+preparing_data.ipynb
+random_forest.ipynb
+saving models.ipynb
+SVM.ipynb
+THE_PREDICTOR.py
+dane:
+res/cleaned_labels.xlsx
+res/cleaned_labels.csv
+res/df_imputed_dropped_klub_sen.csv
+res/df_inne_dropped
+res/df_inne_encoded_logically_final.csv
